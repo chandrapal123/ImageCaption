@@ -1,0 +1,7 @@
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+Link for the Flickr8k-Dataset
+For the training model used is RNN with top of CNN.
+Here the model is trained with 8k images and saved the model.For testing pretrained model is used for given test images.
+You can use microsoft conceptual captioning dataset with 1 lakh images that will take aproximate 6 hr. in Normal CPU,
+or you can use VGG pretrained model also.
+Enjoy:)
